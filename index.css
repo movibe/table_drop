@@ -1,0 +1,28 @@
+table {
+  border-collapse: collapse;
+  background-color: #fee;
+  border: 1px solid black;
+}
+
+td, th {
+  border: 1px solid black;
+  text-align: center;
+  padding: 5px 15px;
+}
+
+td.rim {
+  padding: 0;
+  width: 10px;
+}
+
+#drag-item {
+  border: 1px solid black;
+  text-align: center;
+  background-color: #fee;
+  width: 50px;
+  margin-bottom: 20px;
+}
+
+.dropping {
+  background-color: #fcc;
+}
